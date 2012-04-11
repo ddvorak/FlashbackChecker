@@ -1,0 +1,21 @@
+
+Author: David Dvorak
+Last Modified: April 10, 2012
+
+
+This is a super simple script that looks for files that flashback trojan adds to your computer.  
+To run the file simply open terminal and cd to the folder you downloaded flashbackchecker.sh to, and type:
+
+./flashbackchecker.sh
+
+
+If NO ERRORS SHOW UP:
+  You are infected
+
+If ERRORS SHOW UP FOR BOTH COMMANDS:
+  You are not infected.... YAY!
+
+
+Head to gizmodo to read more about the infection:
+
+http://gizmodo.com/5899352/mac-flashback-trojan-find-out-if-youre-one-of-the-600000-infected
